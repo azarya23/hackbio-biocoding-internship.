@@ -101,6 +101,6 @@ print("Preferred Programming Language:", team_members[4]["Preferred Programming 
 #Ajudua Sharon:
 #Maurice Godwin:
 
-LINKEDIN/X POST LINK
-LINKEDIN:
+#LINKEDIN/X POST LINK
+#LINKEDIN:
 X:
