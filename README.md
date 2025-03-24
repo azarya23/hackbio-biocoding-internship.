@@ -15,7 +15,7 @@ A **List of Dictionaries** is used to store each member’s details in a structu
 ### OUTPUT
 The print() function was used to display the information in a structured format with spaces between each member for readability.
 
-# Stage One Tasks
+# HackBio Biocoding Internship - Stage One Tasks
 ### task 1 DNA to Protein Translation
 This task involves translating a DNA sequence into a protein sequence using a series of steps. Below is a concise breakdown of the process:
 - **1 define the function of the task to be performed**   - **2 convert DNA to mRNA** by replacing the "T" to "U"
